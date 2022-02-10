@@ -1,1 +1,2 @@
 name: Team Moe's awesome approval workflow
+on: pull_request_review
